@@ -7,7 +7,6 @@ Community for building ecosystem on top of decentralised cloud infrastructure an
 - System design to host generative AI infrastructure(Mlops, LLmops) 
 - Tools for handling Dataops for onchain data on services like [KYVE](), [Bacalau] etc.
 
-
 With an aim to evolve this as modular ecosystem to serve the next billion users, along with being an marketplace for the various startups that provide services (IaaS, PaaS) for web3 applications.
 
 ## About community: 
@@ -18,7 +17,6 @@ My motivation to start this project came from:
 
 We are taking multiple paths in achieving this aim:
 
-
 1. Mapping the current services available in the decentralised web3 space and bundling them into single fullstack template,with features like: 
 
 - Unified authentication framework: allowing users to create custom authentication workflows from using their custom web2 authentication workflows (oauth, OIDC, digital KYC platforms) to import them onto web3 based identities (DID, zk attestations ) along with authentication workflows (SIWE kinda for every major available EVM/non EVM chains).
@@ -28,7 +26,7 @@ We are taking multiple paths in achieving this aim:
 - Features like HMR, devops and CI/CD support.
 
 
-2. Building course for building your own version of the 
+2. Building course for developers to build scalable Dapps in domain of cloud native , AI etc.
 
 
 
@@ -37,10 +35,10 @@ We are taking multiple paths in achieving this aim:
 
 I will be listing (and giving due credits) to various open source projects that i take inspiration or referring their code base: 
 
-- template repo's like [Web3-Monorepo](https://github.com/sebpalluel/web3-monorepo), [Turbo-eth]()
+- template repo's like [Web3-Monorepo](https://github.com/sebpalluel/web3-monorepo), [Turbo-eth](https://www.turboeth.xyz)
 
-Courses for building own tech stack  
-- [MadewithMl]()
+Courses for learning about MLops:  
+- [MadewithMl](https://madewithml.com), [fullstackDL](https://fullstackdeeplearning.com).
 
 ## About the team. 
 
