@@ -1,31 +1,56 @@
-# Welcome to  deCloudify :cloud: :chains: 
+# Welcome to  DeCloudify :cloud: :chains: 
 
-Community for development of projects in order to envision the future of web3 native and scalable cloud native applications.  
+Community for building ecosystem on top of decentralised cloud infrastructure and web3 support the usecases like: 
+
+- Hosting full fledged SaaS Dapps usecases.
+- Educational courses and templates for developers to onboard their apps on web3.
+- System design to host generative AI infrastructure(Mlops, LLmops) 
+- Tools for handling Dataops for onchain data on services like [KYVE](), [Bacalau] etc.
 
 
-## About: 
+With an aim to evolve this as modular ecosystem to serve the next billion users, along with being an marketplace for the various startups that provide services (IaaS, PaaS) for web3 applications.
 
-We are currently mapping the current services available in the decentralised web3 space (on the runtime, storage, networking) and bundling them into single fullstack framework, with following components: 
+## About community: 
+
+My motivation to start this project came from: 
+   -  The progress i saw from the projects like [protocol-labs](https://www.plnetwork.io), alchemy , fleek and other "IaaS" providers building on distributed compute and storage services
+   -  Along with my passion to upskill myself in building scalable applications and to come up with the approach of [system design primer](https://github.com/donnemartin/system-design-primer) that will explain the newcomers more insights on doing backpaper analysis to choose their application tech stack from MVP to actual prod.   
+
+We are taking multiple paths in achieving this aim:
+
+
+1. Mapping the current services available in the decentralised web3 space and bundling them into single fullstack template,with features like: 
 
 - Unified authentication framework: allowing users to create custom authentication workflows from using their custom web2 authentication workflows (oauth, OIDC, digital KYC platforms) to import them onto web3 based identities (DID, zk attestations ) along with authentication workflows (SIWE kinda for every major available EVM/non EVM chains).
 
-- support for every major blockchain runtime: 
-   - creating your basic well setup template to deploy EVM/non EVM generated template will be generated  `yarn generate <blockchain-name>`.
+- Support for every major blockchain runtime.
 
-- setting up your backend infrasturcture as Code (with the web3 based development kit) with native support to GraphQL services like Hausra for fast indexing of data.
+- Features like HMR, devops and CI/CD support.
 
-- features like HMR, devops and CI/CD support for both web2/web3 for automation.
+
+2. Building course for building your own version of the 
+
 
 
 ## Credits to the projects: 
 
-- [web3-monorepo](https://github.com/sebpalluel/web3-monorepo): the initial template based on nx + nest build and package management system, destined to be the single fullstack application workflow needed to start building your scalable Dapps. thanks [Seb palluel](https://github.com/sebpalluel) for sharing this template and much needed feedback.
 
+I will be listing (and giving due credits) to various open source projects that i take inspiration or referring their code base: 
 
-- [Landscape](https://landscape.cncf.io): This correponds to mapping all of the projects in the vertical of cloud computing and their statistics.
+- template repo's like [Web3-Monorepo](https://github.com/sebpalluel/web3-monorepo), [Turbo-eth]()
+
+Courses for building own tech stack  
+- [MadewithMl]()
 
 ## About the team. 
 
-The initiative is started by [Dhruv Malik](Github:@dhruvmalik007) having passion in doing research across the verticals in the web3 space in terms of application architect and as smart contract developer. feel free to reachout in case you want to contribute to open source and are interested in this ambitious project of creating the futureproof template for designing scalable applications.
+The initiative is started by [Dhruv Malik](Github:@dhruvmalik007) having passion in doing research across the verticals in the web3 space in terms of application architect and as smart contract developer. 
 
- 
+This project is tend to be evolved based on [open-startup](https://openbb.co/company/open) , with clear definition of the contributing guidelines, and incentives for the upcoming developers giving great contributions (will ideally introduce the DeFI as the funding layer, but not before if i get sufficient critical number of members engaging in the project fulltime) 
+
+Feel free to reachout in case for troubleshooting any project or you guys have some suggestions.
+
+## Socials
+- [website](https://decloudify.github.io)
+- [newsletter](https://medium.com/@public-goods)
+- [twitter](https://twitter.com/lesDecroissant)
